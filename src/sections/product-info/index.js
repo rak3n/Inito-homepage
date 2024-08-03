@@ -36,7 +36,7 @@ const ProductDescription = () => {
             <div class="iphone slick-initialized">
                 <FadedCarousel
                     items={carouselItems}
-                    fadeInterval={2}
+                    fadeInterval={3}
                 />
             </div>
         </section>

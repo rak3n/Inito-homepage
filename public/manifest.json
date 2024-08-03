@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Inito assignment",
+  "name": "Inito Fertility Monitor finds the days when you are most fertile to maximise your chances of getting pregnant.",
   "icons": [
     {
       "src": "favicon.ico",

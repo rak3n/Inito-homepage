@@ -29,7 +29,7 @@ const FadedCarousel = ({ items = [], fadeInterval = 1, width = "100%" }) => {
 
     return (
         <div class="slick-list draggable">
-            <div class="slick-track" style={{ opacity: 1, height: `${items.length * ITEM_WIDTH}px`, width, }}>
+            <div class="slick-track" style={{ opacity: 1, maxHeight: `${items.length * ITEM_WIDTH}px`, width, }}>
             {resultsJsx}
             </div>
         </div>

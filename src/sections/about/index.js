@@ -25,7 +25,7 @@ const About = () => {
     const renderPictureCard = (pattern = []) => {
         const pictureCardJsx = pattern.map(({ src, type }) => {
             if (type === "images")
-                return <Image src="get_charts_and_actual_values@2x.png" type="images" />;
+                return <Image src={src} type="images" />;
             return <source media="(min-width:769px)" srcset={src} />
         });
 
