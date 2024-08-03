@@ -47,10 +47,10 @@ const Footer = () => {
                 </ul>
                 <ul>
                     <li class="head">Get In Touch</li>
-                    <li><a href="tel:+91-9742931931" target="_blank">
+                    <li><a href="tel:+91-9742931931" target="_blank" rel="noreferrer">
                         +91-9742931931
                     </a></li>
-                    <li><a href="mailto:help@inito.com" target="_blank">help@inito.com</a></li>
+                    <li><a href="mailto:help@inito.com" target="_blank" rel="noreferrer">help@inito.com</a></li>
                     <li>
                         2nd Floor, #44, 100 Feet Rd, Koramangala 4th Block, Bengaluru, 560034, IN
                     </li>
@@ -89,8 +89,8 @@ const Footer = () => {
                             <Image type="images" src="Icon Arrow Down-fbac066563808072fac97a64820fb3e89defb84e6eb03158df960849592ff079.svg" />
                         </div>
                         <div class="body">
-                            <a href="tel:+91-9742931931" target="_blank">+91-9742931931</a>
-                            <a href="mailto:help@inito.com" target="_blank">help@inito.com</a>
+                            <a href="tel:+91-9742931931" target="_blank" rel="noreferrer">+91-9742931931</a>
+                            <a href="mailto:help@inito.com" target="_blank" rel="noreferrer">help@inito.com</a>
                             <li>
                                 2nd Floor, #44, 100 Feet Rd, Koramangala 4th Block, Bengaluru, 560034, IN
                             </li>
@@ -98,16 +98,16 @@ const Footer = () => {
                     </div>
                 </div>
                 <div class="social-icon-dark">
-                    <a href="https://www.facebook.com/groups/initofertility" target="_blank">
+                    <a href="https://www.facebook.com/groups/initofertility" target="_blank" rel="noreferrer">
                         <Image type="images" src="Facebook - Negative.png" />
                     </a>
-                    <a href="https://www.instagram.com/initofertility" target="_blank">
+                    <a href="https://www.instagram.com/initofertility" target="_blank" rel="noreferrer">
                         <Image type="images" src="Instagram - Negative.png" />
                     </a>
-                    <a href="https://www.linkedin.com/company/initoinc" target="_blank">
+                    <a href="https://www.linkedin.com/company/initoinc" target="_blank" rel="noreferrer">
                         <Image type="images" src="LinkedIn - Negative.png" />
                     </a>
-                    <a href="https://www.youtube.com/@Inito" target="_blank">
+                    <a href="https://www.youtube.com/@Inito" target="_blank" rel="noreferrer">
                         <Image type="images" src="YouTube - Negative.png" />
                     </a>
                 </div>

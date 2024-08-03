@@ -1,6 +1,5 @@
 import React from 'react';
 import Stars from '../../components/Stars';
-import { reviews } from './constants';
 
 const Reviews = () => {
   return (

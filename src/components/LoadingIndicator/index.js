@@ -5,8 +5,7 @@ import './style.css';
 /**
  * Simple Loading Indicator, use classes.
  * */
-const LoadingIndicator = ({
-}) => {
+const LoadingIndicator = () => {
   return (
     <div class="loader">
         <div class="spinner"></div>
