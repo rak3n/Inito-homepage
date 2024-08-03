@@ -1,7 +1,6 @@
 import Navbar from "./components/Navbar";
 import Home from './pages/async';
 import Footer from './components/Footer';
-import './app.css';
 
 const App = () => {
   return (
